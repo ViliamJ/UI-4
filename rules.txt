@@ -16,10 +16,10 @@ POTOM pridaj ?X je matka ?Y
 
 Meno: Surodenci
 AK    ?X je rodic ?Y,?X je rodic ?Z,<> ?Y ?Z
-POTOM pridaj ?Y a ?Z su surodenci
+POTOM pridaj ?Y ?Z su surodenci
 
 Meno: Brat
-AK    ?Y a ?Z su surodenci,muz ?Y
+AK    ?Y ?Z su surodenci,muz ?Y
 POTOM pridaj ?Y je brat ?Z
 
 Meno: Stryko

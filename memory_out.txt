@@ -6,6 +6,23 @@ Vlado je rodic Viera
 muz Peter
 muz Jano
 muz Vlado
-zena Maria
-zena Viera
 zena Eva
+muz Cigan
+Cigan je rodic Filomena
+Eva je rodic Jano
+Eva je rodic Vlado
+Peter je otec Jano
+Peter je otec Vlado
+Vlado je otec Maria
+Vlado je otec Viera
+Cigan je otec Filomena
+Jano Vlado su surodenci
+Vlado Jano su surodenci
+Maria Viera su surodenci
+Viera Maria su surodenci
+Eva je matka Jano
+Eva je matka Vlado
+Jano je brat Vlado
+Vlado je brat Jano
+Jano je stryko Maria
+Jano je stryko Viera
